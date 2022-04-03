@@ -13,31 +13,7 @@ chmod +x ./aliasEnum.py
 
 # Usage Example 
 
-![./aliasEnum.py nCux Track2 2Pac
-
-_output_
-
-- nCux
-- nTrack
-- n2
-- nPac
-- Cuxn
-- CuxTrack
-- Cux2
-- CuxPac
-- Trackn
-- TrackCux
-- Track2
-- TrackPac
-- 2n
-- 2Cux
-- 2Track
-- 2Pac
-- PacCux
-- PacTrack
-- Pac2
-](https://raw.githubusercontent.com/baybled/AliasEnum/main/example%20picture.png)
-
+![usage_screenshot](https://raw.githubusercontent.com/baybled/AliasEnum/main/example%20picture.png)
 
 # Future
 
