@@ -53,5 +53,5 @@ def operator(command_line_input):
     process_input(command_line_input)
     
 
-if name == 'main':
+if __name__ == '__main__':
     operator(sys.argv)
