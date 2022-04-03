@@ -13,6 +13,8 @@ chmod +x ./aliasEnum.py
 
 # Usage Example 
 
+![alt text](https://github.com/baybled/AliasEnum/blob/[branch]/example_picture.jpg?raw=true)
+
 ./aliasEnum.py nCux Track2 2Pac
 
 _output_
