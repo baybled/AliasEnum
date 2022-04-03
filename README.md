@@ -19,6 +19,7 @@ chmod +x ./aliasEnum.py
 
 - split aliases of 2+ words, output shows 2+ word combos
 - combos observe word symmetry (e.g. xx_little_lover_xx preserves xx at the start and end for new combos)
+- combos observe pheonitic patterns (e.g. if all aliases are 3 syllables, combos must be 3 syllables)
 
 # Troubleshooting
 
