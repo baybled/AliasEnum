@@ -13,7 +13,7 @@ chmod +x ./aliasEnum.py
 
 # Usage Example 
 
-[Usage screenshot]('https://raw.githubusercontent.com/baybled/AliasEnum/main/example%20picture.png')
+![Usage screenshot](https://raw.githubusercontent.com/baybled/AliasEnum/main/example%20picture.png)
 
 ./aliasEnum.py nCux Track2 2Pac
 
