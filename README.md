@@ -3,11 +3,11 @@ Simple python enumerator for online asliases with 2 word split
 
 # Installation
 
-git clone this repo
+git clone https://github.com/baybled/AliasEnum.git
 
 ./aliasEnum.py $alias1 $alias2 $alias3
 
-# Usage 
+# Usage Example 
 
 ./aliasEnum.py nCux Track2 2Pac
 
